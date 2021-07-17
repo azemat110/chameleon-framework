@@ -12,6 +12,6 @@ class Test
      */
     public static function hello(): string
     {
-        return "this is chameleon framework";
+        return "this is chameleon framework ！";
     }
 }
