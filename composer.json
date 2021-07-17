@@ -1,0 +1,21 @@
+{
+    "name": "chameleon/framework",
+    "description": "this is chameleon framework",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "azemat",
+            "email": "azemat0110@139.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ChameleonFramework\\": "src/"
+        }
+    }
+}
