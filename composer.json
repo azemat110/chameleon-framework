@@ -1,5 +1,5 @@
 {
-    "name": "chameleon/framework",
+    "name": "azemat/chameleon-framework",
     "description": "this is chameleon framework",
     "type": "library",
     "require": {
